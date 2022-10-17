@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thubaralei
+- 👋 Hi, I’m @Thubaralei Afonso Henrique de Jesus Geologisty
 - 👀 I’m interested in Data Science Geology 
 - 🌱 I’m currently learning Python, SQL and data analyse  
 - 💞️ I’m looking to collaborate on geologist work
